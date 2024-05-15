@@ -1,2 +1,2 @@
-# terminal-music-player
+# music-tui.py
 A terminal based music player.
